@@ -162,4 +162,4 @@ function scriptLoadHandler() {
 Widget.show();
 }
 
-createWidgetHelpButton("382d5ea71c41bc579efa6ecaf23f70fd");
+createWidgetHelpButton(WidGetButtonOptions);
